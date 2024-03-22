@@ -10,3 +10,7 @@
 
 # 3월 15일 강의
 내용 정리
+
+git config user.name 닉네임
+               .email 이메일
+               
