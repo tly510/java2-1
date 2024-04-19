@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex4-02 {
+public class Ex4_02 {
     int width;
     int height;
 
@@ -12,7 +12,7 @@ public class Ex4-02 {
         Rectangle rect = new Retangle(); //객체생성
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print(s:">>");
+        System.out.print(">>");
         rect.width = scanner.nextInt();
         rect.height = scanner.nextInt();
         System.out.println("사각형의 면적은" + rect.getArea());
